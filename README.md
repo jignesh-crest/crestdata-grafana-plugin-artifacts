@@ -1,2 +1,2 @@
-# grafana-proofpoint-datasource
-This repository contains proofpoint TAP datasource plugin.
+# crestdata-grafana-plugin-artifacts
+This repository contains artifacts for grafana plugins.
