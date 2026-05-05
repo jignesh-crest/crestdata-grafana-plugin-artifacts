@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Zoom">
+  <title>Zoom</title>
+  <rect width="128" height="128" rx="22" fill="#111827"/>
+  <rect x="8" y="8" width="112" height="112" rx="18" fill="#2D8CFF"/>
+  <path d="M26 44h52c3.3 0 6 2.7 6 6v28c0 3.3-2.7 6-6 6H26c-3.3 0-6-2.7-6-6V50c0-3.3 2.7-6 6-6z" fill="#ffffff"/>
+  <path d="M91 50.5l17-10.3c2-1.2 4.5.2 4.5 2.5v42.6c0 2.3-2.5 3.7-4.5 2.5L91 77.5v-27z" fill="#ffffff"/>
+</svg>
